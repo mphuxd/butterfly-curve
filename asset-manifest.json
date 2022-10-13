@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/butterfly-curve/static/css/main.facb758b.css",
+    "main.js": "/butterfly-curve/static/js/main.970e74eb.js",
+    "static/js/787.934970ab.chunk.js": "/butterfly-curve/static/js/787.934970ab.chunk.js",
+    "index.html": "/butterfly-curve/index.html",
+    "main.facb758b.css.map": "/butterfly-curve/static/css/main.facb758b.css.map",
+    "main.970e74eb.js.map": "/butterfly-curve/static/js/main.970e74eb.js.map",
+    "787.934970ab.chunk.js.map": "/butterfly-curve/static/js/787.934970ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.facb758b.css",
+    "static/js/main.970e74eb.js"
+  ]
+}
